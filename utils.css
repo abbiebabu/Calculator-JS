@@ -2,7 +2,6 @@
   text-align: center;
 }
 
-}
 .mx-auto {
   margin: auto;
 }
@@ -15,4 +14,18 @@
 .items-center {
   align-items: center;
   justify-content: center;
+}
+.equals {
+  background-color: yellow;
+  font-weight: bold;
+}
+.C {
+  background-color: rgb(219, 26, 26);
+  font-weight: bold;
+  color: aliceblue;
+}
+.operator {
+  background-color: black;
+  color: aliceblue;
+  font-weight: bold;
 }
